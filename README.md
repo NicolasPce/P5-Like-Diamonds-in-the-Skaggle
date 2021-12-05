@@ -1,12 +1,13 @@
 # P5-Like-Diamonds-in-the-Skaggle
 
 ### Objective: 
-The objective of the is to find the best prediction for the price of diamonds given a data set with their features
+The objective of the is to find the best prediction for the price of diamonds given a data set with their features.
+And then submit in Kaggle: https://www.kaggle.com/c/diamonds-datamad1021-rev/overview
 
 
 ### Content: 
-You will find in this repo the Jupyter Notebook that contains de cleaning of the data set and the test od the differents regressions.
-And also de PPT slide, for the presentation.
+You will find in this repo the Jupyter Notebook that contains de cleaning of the data set and the test of the differents regressions.
+And also de PPT for the presentation.
  
  
 ### Methods
@@ -18,7 +19,7 @@ And also de PPT slide, for the presentation.
 - Grid Search
 
 ### Conclusions
-The Grid Seach was the best approach to predict the price of the diamonds
+Grid Seach was the best approach to predict the price of the diamonds
 
 
 ### Libraries
