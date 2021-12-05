@@ -12,8 +12,8 @@ And also de PPT for the presentation.
  
 ### Methods
 - Linear Regression
-- Decission Tree Classifier
-- Decission Tree Regressor
+- Decision Tree Classifier
+- Decision Tree Regressor
 - Random Forest
 - Gradient Boosting
 - Grid Search
