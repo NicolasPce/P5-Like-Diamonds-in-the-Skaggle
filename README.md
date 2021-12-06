@@ -22,6 +22,9 @@ And also de PPT for the presentation.
 Random Forest was the best approach to predict the price of the diamonds
 
 
+<img width="1680" alt="image" src="https://user-images.githubusercontent.com/91548371/144818431-2d01ef21-2504-4af4-b195-572a60f8d2ec.png">
+
+
 ### Libraries
 -	Pandas [Here](https://pandas.pydata.org/docs/)
 -	numpy [Here](https://numpy.org/doc/)
