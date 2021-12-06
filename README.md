@@ -16,10 +16,10 @@ And also de PPT for the presentation.
 - Decision Tree Regressor
 - Random Forest
 - Gradient Boosting
-- Grid Search
+
 
 ### Conclusions
-Grid Seach was the best approach to predict the price of the diamonds
+Random Forest was the best approach to predict the price of the diamonds
 
 
 ### Libraries
